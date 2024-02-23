@@ -1,8 +1,8 @@
-StudentManagement
-Student Management System
+## StudentManagement
+## Student Management System
 This is a simple student management system implemented in C. It allows users to add new students, display student details, search for a student by ID, update student information, and delete a student record.
 
-Features
+## Features
 Add Student: Users can add a new student with their ID, name, age, and marks.
 Display Students: Users can view the details of all the students in the system.
 Search Student: Users can search for a student by their ID and view their details.
